@@ -1,8 +1,6 @@
 # .NET 8 Backend API MVP
 
-Este repositorio contiene un **MVP de API REST profesional** desarrollado con **ASP.NET Core .NET 8**, diseñado para demostrar competencias reales de un **Backend Engineer** en un contexto de selección técnica.
-
-El objetivo no es mostrar un CRUD académico, sino una base sólida, mantenible y defendible en entrevista.
+Este repositorio contiene un **MVP de API REST** desarrollado con **ASP.NET Core .NET 8**, diseñado para demostrar competencias requeridas en un contexto de **Backend Engineer**
 
 ---
 
@@ -11,7 +9,6 @@ El objetivo no es mostrar un CRUD académico, sino una base sólida, mantenible 
 Construir una API REST que demuestre:
 
 - Arquitectura backend clara y razonada
-- Decisiones técnicas explícitas y justificables
 - Seguridad realista basada en JWT, roles y claims
 - Uso correcto de EF Core con SQL Server
 - Validaciones, manejo de errores y logging estructurado
